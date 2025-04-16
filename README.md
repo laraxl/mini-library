@@ -19,7 +19,7 @@ Supports book tracking, searching, check-in/check-out
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/mini-library.git
+git clone https://github.com/laraxl/mini-library.git
 cd mini-library
 
 # 2. Install dependencies
